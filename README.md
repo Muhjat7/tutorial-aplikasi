@@ -4,7 +4,7 @@ Nama    : Muhamad Jati Wasesa
 
 NIM     : 312210481
 
-Kelas   : TI.22.A1
+Kelas   : TI.22.A5
 
 Mata Kuliah : Pemrograman Mobile 1
 
